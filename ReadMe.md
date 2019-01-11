@@ -1,4 +1,5 @@
-# Read Me for "The Myeloid Src-family Kinases Hck and Fgr Regulate Sensitivity of Flt3-ITD+ AML cells to the Pyrrolopyrimidine Kinase Inhibitor, A-419259"
+# Read Me for
+# "The Myeloid Src-family Kinases Hck and Fgr Regulate Sensitivity of Flt3-ITD+ AML cells to the Pyrrolopyrimidine Kinase Inhibitor, A-419259"
 
 ## Authors:
 Ravi K. Patel, Mark C. Weir, Kexin Shen, Daniel Snyder, Vaughn S. Cooper, and Thomas E. Smithgall
@@ -12,22 +13,22 @@ Acute myelogenous leukemia (AML) is a devastating hematologic cancer with limite
 ## Prerequisite programs used for this repo & links to where they can be downloaded:
 
 ### University of Pittsburgh Center for Research Computing Cluster
-[Trimmomatic version 0.3348](http://www.usadellab.org/cms/?page=trimmomatic)
-[Burrows-Wheeler aligner maximal exact matches (BWA-MEM) algorithm version 0.7.1549](https://sourceforge.net/projects/bio-bwa/files/)
-[Samtools version 1.3.1](https://sourceforge.net/projects/samtools/files/samtools/1.3.1/)
-[Picard Mark Duplicates version 2.11.050](https://broadinstitute.github.io/picard/)
-[Genome analysis Toolkit (GATK) version 3.8.1 Haplotypecaller](https://software.broadinstitute.org/gatk/download/archive)
-[SnpEff version 4.3](http://snpeff.sourceforge.net/)
-[Cancer-specific High-throughput Annotation of Somatic Mutations (CHASM)](http://www.cravat.us/CRAVAT/)  - This is a Web tool, no download required
+[Trimmomatic version 0.3348](http://www.usadellab.org/cms/?page=trimmomatic) \n
+[Burrows-Wheeler aligner maximal exact matches (BWA-MEM) algorithm version 0.7.1549](https://sourceforge.net/projects/bio-bwa/files/) \n
+[Samtools version 1.3.1](https://sourceforge.net/projects/samtools/files/samtools/1.3.1/) \n
+[Picard Mark Duplicates version 2.11.050](https://broadinstitute.github.io/picard/) \n
+[Genome analysis Toolkit (GATK) version 3.8.1 Haplotypecaller](https://software.broadinstitute.org/gatk/download/archive) \n
+[SnpEff version 4.3](http://snpeff.sourceforge.net/) \n
+[Cancer-specific High-throughput Annotation of Somatic Mutations (CHASM)](http://www.cravat.us/CRAVAT/)  - This is a Web tool, no download required \n
 
 ### On a local machine
-[Python 3.6.4](https://www.python.org/downloads/release/python-364/)
-And the following python libraries:
-[matplotlib 2.2.2](https://matplotlib.org/users/installing.html)
-[seaborn 0.9.0](https://seaborn.pydata.org/installing.html)
-[pandas 0.23.4](https://pypi.org/project/pandas/)
-[numpy 1.14.2](https://github.com/numpy/numpy/releases)
-[scipy 1.0.0](https://docs.scipy.org/doc/scipy-1.0.0/reference/)
+[Python 3.6.4](https://www.python.org/downloads/release/python-364/) \n
+And the following python libraries: \n
+[matplotlib 2.2.2](https://matplotlib.org/users/installing.html) \n
+[seaborn 0.9.0](https://seaborn.pydata.org/installing.html) \n
+[pandas 0.23.4](https://pypi.org/project/pandas/) \n
+[numpy 1.14.2](https://github.com/numpy/numpy/releases) \n
+[scipy 1.0.0](https://docs.scipy.org/doc/scipy-1.0.0/reference/) \n
 
 
 ## Description of all files in repository
