@@ -34,3 +34,4 @@ And the following python libraries:
 ## Description of all files in repository
 ExomeSeq_Analysis_script.sh is the script for the Exome sequencing analysis performed at the University of Pittsburgh Center for Research Computing. The Raw sequencing data can be accessed at the sequencing read archive here (insert link to SRA).
 Each directory contains a jupyter notebook which contains the code for analysis and generation of each of the figures made using python code (Figure 1A, Supplementary Figure 1A, Supplementary Figure 1B, Supplementary Figure 4). All other files within each directory (or subdirectories) are raw data for the analysis.
+VCF_analysis contains the code to find the number of unique mutations in each resistant cell line (not in the parent cell line). The annotated VCF files are included in this directory. 
